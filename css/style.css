@@ -436,3 +436,9 @@ and (-webkit-device-pixel-ratio : 3) {
 .retweet div {
     color: white;
 }
+
+.add-button {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
