@@ -439,8 +439,9 @@ and (-webkit-device-pixel-ratio : 3) {
 
 .add-button {
   position: absolute;
-  top: 1px;
+  top: 80px;
   left: 1px;
   color:white;
   font-size:30pt;
+  z-index:99999;
 }
